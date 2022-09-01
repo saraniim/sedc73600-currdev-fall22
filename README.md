@@ -6,7 +6,7 @@
 ### Professors Jonalf Dyrland-Weaver, Samuel Konstantinovich
 ### Class Time: Thursdays, 7:00pm - 8:15pm
 ### Office Hours: JonAlf: Tuesday 5-6pm, Sam:  and By Appointment
-### Email JonAlf: jd5122@hunter.cuny.edu, Sam:
+### Email JonAlf: jd5122@hunter.cuny.edu, Sam: sk7648@hunter.cuny.edu
 
 ### Class Zoom link: https://us02web.zoom.us/j/81238608714?pwd=WkptZUROUXNIVDdkNkEySGtLY3N1UT09
 ### Program slack link: https://hunterteacher-vyz6159.slack.com
