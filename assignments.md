@@ -1,9 +1,9 @@
 # Assignments
-#### All assignments should be submitted by the start of the next class via github classroom (unless otherwise instructed)
-#### Use the Following GitHub Classroom link to create your assignment repository: https://classroom.github.com/a/nolh7LWN
-#### All assignments should be copleted in a markdown file with the following naming convention (unless otherwise noted): session_title.md e.g. 01_compare.md
-#### [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-#### [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* All assignments should be submitted by the start of the next class via github classroom (unless otherwise instructed)
+* Use the Following GitHub Classroom link to create your assignment repository: https://classroom.github.com/a/nolh7LWN
+* All assignments should be copleted in a markdown file with the following naming convention (unless otherwise noted): session_title.md e.g. 01_compare.md
+* [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+* [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Asynchronous Work
 #### Most asynchronous work will happen over slack.
