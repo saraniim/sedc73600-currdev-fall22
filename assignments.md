@@ -13,5 +13,12 @@ Asynchronous work is meant to take up the balance of our class time, since our l
 
 # Session 00: 09/01
 ## Assignment:
+* filename: **00_standards.md**
+  * Pick 2 specific NY CS standards and describe a lesson/task/assignment that addresses your selected standards, explain how.
+  * You can use the same lesson/task/assignment for both, or different ones.
 
 ## Asynchronous:
+* In the \#async_curdev slack channel:
+  * Make a post sharing your school's CS courses/sequence.
+    * Provide commentary on the choices your school has made. What works well? What could be improved?
+  * Reply *as a thread* to at least 3 other posts with your thoughts.
